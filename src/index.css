@@ -2,6 +2,15 @@
 
 :root {
   --primary: #161616;
+  --secundary: #989898;
+  --terceary: #bbbbbb;
+  --white: #ffffff;
+
+  --paddingMain: 140px;
+
+  --fontXLarge: 48px;
+  --fontLarge: 24px;
+  --fontMedium: 18px;
 }
 
 body {

@@ -1,12 +1,13 @@
 import React from "react";
 import { Base } from "./template/base/index";
 import { Header } from "../src/components/Header/index";
+import { SearchBar } from "./components/SearchBar";
 
 function App() {
   return (
     <Base>
       <Header />
-      <h1>Hello World</h1>
+      <SearchBar />
     </Base>
   );
 }
