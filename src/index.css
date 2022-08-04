@@ -5,12 +5,16 @@
   --secundary: #989898;
   --terceary: #bbbbbb;
   --white: #ffffff;
+  --text: #fefefe;
+  --black: #000000;
+  --footer: #282828;
 
   --paddingMain: 140px;
 
   --fontXLarge: 48px;
   --fontLarge: 24px;
   --fontMedium: 18px;
+  --fontBasic: 13px;
 }
 
 body {

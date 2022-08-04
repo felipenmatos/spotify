@@ -7,15 +7,16 @@ export const Container = styled.div`
 `;
 
 export const Title = styled.p`
-  font-size: var(--fontLarge);
+  font-size: var(--fontBasic);
   color: var(--terceary);
 `;
 
 export const Input = styled.input`
-  font-size: var(--fontXLarge);
+  font-size: var(--fontLarge);
   font-weight: bold;
   color: var(--secundary);
-  height: 80px;
+  width: 800px;
+  height: 40px;
   padding-bottom: 14px;
   border-bottom: 2px solid var(--secundary);
   border-top: 0px;
