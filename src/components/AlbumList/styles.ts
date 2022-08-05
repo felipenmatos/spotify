@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
   display: flex;
   flex-direction: column;
+  margin-top: 100px;
 `;
 
 export const Subtitle = styled.h2`
@@ -13,7 +14,8 @@ export const Subtitle = styled.h2`
 `;
 
 export const Wrapper = styled.div`
+  margin-top: 20px;
   display: flex;
   flex-direction: row;
-  gap: 50px;
+  gap: 45px;
 `;
